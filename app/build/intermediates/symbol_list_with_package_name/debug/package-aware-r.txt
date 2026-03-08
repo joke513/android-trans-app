@@ -27,6 +27,7 @@ anim design_bottom_sheet_slide_in
 anim design_bottom_sheet_slide_out
 anim design_snackbar_in
 anim design_snackbar_out
+anim fade_in_up
 anim fragment_fast_out_extra_slow_in
 anim linear_indeterminate_line1_head_interpolator
 anim linear_indeterminate_line1_tail_interpolator
@@ -43,6 +44,7 @@ anim m3_side_sheet_exit_to_right
 anim mtrl_bottom_sheet_slide_in
 anim mtrl_bottom_sheet_slide_out
 anim mtrl_card_lowers_interpolator
+anim pulse
 animator design_appbar_state_list_animator
 animator design_fab_hide_motion_spec
 animator design_fab_show_motion_spec
@@ -1259,10 +1261,12 @@ color abc_tint_edittext
 color abc_tint_seek_thumb
 color abc_tint_spinner
 color abc_tint_switch_track
+color accent
 color accent_material_dark
 color accent_material_light
 color androidx_core_ripple_material_light
 color androidx_core_secondary_text_default_material_light
+color background
 color background_floating_material_dark
 color background_floating_material_light
 color background_material_dark
@@ -1323,6 +1327,7 @@ color dim_foreground_disabled_material_dark
 color dim_foreground_disabled_material_light
 color dim_foreground_material_dark
 color dim_foreground_material_light
+color error
 color error_color_material_dark
 color error_color_material_light
 color foreground_material_dark
@@ -1984,8 +1989,10 @@ color notification_action_color_filter
 color notification_icon_bg_color
 color primary_dark_material_dark
 color primary_dark_material_light
+color primary_end
 color primary_material_dark
 color primary_material_light
+color primary_start
 color primary_text_default_material_dark
 color primary_text_default_material_light
 color primary_text_disabled_material_dark
@@ -1996,14 +2003,20 @@ color secondary_text_default_material_dark
 color secondary_text_default_material_light
 color secondary_text_disabled_material_dark
 color secondary_text_disabled_material_light
+color success
+color surface
+color surface_light
 color switch_thumb_disabled_material_dark
 color switch_thumb_disabled_material_light
 color switch_thumb_material_dark
 color switch_thumb_material_light
 color switch_thumb_normal_material_dark
 color switch_thumb_normal_material_light
+color text_primary
+color text_secondary
 color tooltip_background_dark
 color tooltip_background_light
+color warning
 dimen abc_action_bar_content_inset_material
 dimen abc_action_bar_content_inset_with_nav
 dimen abc_action_bar_default_height_material
@@ -2889,11 +2902,13 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable button_gradient
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable gradient_background
 drawable ic_arrow_back_black_24
 drawable ic_call_answer
 drawable ic_call_answer_low
@@ -2984,6 +2999,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable status_indicator
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -3068,6 +3084,7 @@ id auto
 id autoComplete
 id autoCompleteToEnd
 id autoCompleteToStart
+id backgroundGradient
 id barrier
 id baseline
 id beginOnFirstDraw
@@ -3077,8 +3094,10 @@ id bottom
 id bounce
 id btnConnect
 id btnStart
+id buttonContainer
 id buttonPanel
 id cancel_button
+id cardResult
 id center
 id centerCrop
 id centerInside
@@ -3371,6 +3390,8 @@ id startToEnd
 id startVertical
 id staticLayout
 id staticPostLayout
+id statusContainer
+id statusIndicator
 id stop
 id stretch
 id submenuarrow
@@ -3423,6 +3444,7 @@ id transition_transform
 id triangle
 id txtResult
 id txtStatus
+id txtTitle
 id unchecked
 id uniform
 id unlabeled

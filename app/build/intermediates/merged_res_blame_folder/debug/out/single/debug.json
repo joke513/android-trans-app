@@ -1,6 +1,34 @@
 [
     {
+        "merged": "C:\\Users\\86158\\.gradle\\daemon\\9.0-milestone-1\\com.example.transtopcm.app-merged_res-31:\\drawable_gradient_background.xml.flat",
+        "source": "C:\\Users\\86158\\.gradle\\daemon\\9.0-milestone-1\\com.example.transtopcm.app-main-33:\\drawable\\gradient_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\86158\\.gradle\\daemon\\9.0-milestone-1\\com.example.transtopcm.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\86158\\.gradle\\daemon\\9.0-milestone-1\\com.example.transtopcm.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\86158\\.gradle\\daemon\\9.0-milestone-1\\com.example.transtopcm.app-merged_res-31:\\drawable_status_indicator.xml.flat",
+        "source": "C:\\Users\\86158\\.gradle\\daemon\\9.0-milestone-1\\com.example.transtopcm.app-main-33:\\drawable\\status_indicator.xml"
+    },
+    {
+        "merged": "com.example.transtopcm.app-merged_res-31:/drawable_status_indicator.xml.flat",
+        "source": "com.example.transtopcm.app-main-33:/drawable/status_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\86158\\.gradle\\daemon\\9.0-milestone-1\\com.example.transtopcm.app-merged_res-31:\\drawable_button_gradient.xml.flat",
+        "source": "C:\\Users\\86158\\.gradle\\daemon\\9.0-milestone-1\\com.example.transtopcm.app-main-33:\\drawable\\button_gradient.xml"
+    },
+    {
         "merged": "com.example.transtopcm.app-merged_res-31:/layout_activity_main.xml.flat",
         "source": "com.example.transtopcm.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\86158\\.gradle\\daemon\\9.0-milestone-1\\com.example.transtopcm.app-merged_res-31:\\anim_pulse.xml.flat",
+        "source": "C:\\Users\\86158\\.gradle\\daemon\\9.0-milestone-1\\com.example.transtopcm.app-main-33:\\anim\\pulse.xml"
+    },
+    {
+        "merged": "C:\\Users\\86158\\.gradle\\daemon\\9.0-milestone-1\\com.example.transtopcm.app-merged_res-31:\\anim_fade_in_up.xml.flat",
+        "source": "C:\\Users\\86158\\.gradle\\daemon\\9.0-milestone-1\\com.example.transtopcm.app-main-33:\\anim\\fade_in_up.xml"
     }
 ]

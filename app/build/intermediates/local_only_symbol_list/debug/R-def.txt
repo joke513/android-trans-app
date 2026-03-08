@@ -1,8 +1,30 @@
 R_DEF: Internal format may change without notice
 local
+anim fade_in_up
+anim pulse
+color accent
+color background
+color error
+color primary_end
+color primary_start
+color success
+color surface
+color surface_light
+color text_primary
+color text_secondary
+color warning
+drawable button_gradient
+drawable gradient_background
+drawable status_indicator
+id backgroundGradient
 id btnConnect
 id btnStart
+id buttonContainer
+id cardResult
+id statusContainer
+id statusIndicator
 id txtResult
 id txtStatus
+id txtTitle
 layout activity_main
 style Theme.TransApp
