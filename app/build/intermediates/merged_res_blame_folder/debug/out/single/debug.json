@@ -12,10 +12,6 @@
         "source": "C:\\Users\\86158\\.gradle\\daemon\\9.0-milestone-1\\com.example.transtopcm.app-main-33:\\drawable\\status_indicator.xml"
     },
     {
-        "merged": "com.example.transtopcm.app-merged_res-31:/drawable_status_indicator.xml.flat",
-        "source": "com.example.transtopcm.app-main-33:/drawable/status_indicator.xml"
-    },
-    {
         "merged": "C:\\Users\\86158\\.gradle\\daemon\\9.0-milestone-1\\com.example.transtopcm.app-merged_res-31:\\drawable_button_gradient.xml.flat",
         "source": "C:\\Users\\86158\\.gradle\\daemon\\9.0-milestone-1\\com.example.transtopcm.app-main-33:\\drawable\\button_gradient.xml"
     },
