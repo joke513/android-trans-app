@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.transtopcm.app-mergeDebugResources-29:/values-hi/values-hi.xml",
+            "outputFile": "com.example.transtopcm.app-mergeDebugResources-30:/values-hi/values-hi.xml",
             "map": [
                 {
                     "source": "C:\\Users\\86158\\.gradle\\caches\\9.0-milestone-1\\transforms\\ef383254d7ed336647320bff66369b36\\transformed\\appcompat-1.6.1\\res\\values-hi\\values-hi.xml",
